@@ -1,0 +1,14 @@
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\bin\Debug\cypherAPP.exe.config
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\bin\Debug\cypherAPP.exe
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\bin\Debug\cypherAPP.pdb
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\obj\Debug\cypherAPP.csprojAssemblyReference.cache
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\obj\Debug\cypherAPP.Properties.Resources.resources
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\obj\Debug\cypherAPP.csproj.GenerateResource.cache
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\obj\Debug\cypherAPP.csproj.CoreCompileInputs.cache
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\obj\Debug\cypherAPP.exe
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\obj\Debug\cypherAPP.pdb
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\obj\Debug\cypherAPP.HelloForm.resources
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\obj\Debug\cypherAPP.DES_64.resources
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\obj\Debug\cypherAPP.Systemy_Schisleniya.resources
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\obj\Debug\cypherAPP.vigenerTWO.resources
+C:\Users\Qolqanat Sarsenov\Source\Repos\cypherAPP\cypherAPP\obj\Debug\cypherAPP.Caesar.resources
